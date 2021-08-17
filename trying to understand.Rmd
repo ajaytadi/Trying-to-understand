@@ -11,6 +11,8 @@ knitr::opts_chunk$set(echo = TRUE)
 
 #Tutorial 1 #
 
+#uploading this document to github#
+
 ```{r}
 
 library(tidyverse)
