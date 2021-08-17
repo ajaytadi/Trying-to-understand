@@ -13,6 +13,8 @@ knitr::opts_chunk$set(echo = TRUE)
 
 #uploading this document to github#
 
+=======
+>>>>>>> 1f52dbbc1256b95f4bb1a77aa8c1dc492f9dc6f3
 ```{r}
 
 library(tidyverse)
